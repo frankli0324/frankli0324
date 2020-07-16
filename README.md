@@ -1,6 +1,6 @@
 ### Frank
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=frankliC4F88414-C20B-4ACE-986C-93E4780539CC.readme.md)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=frankliC4F88414-C20B-4ACE-986C-93E4780539CC.readme.md)
 
 - 🏫 College Student
 - 🔐 Interested in web security
