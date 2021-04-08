@@ -6,8 +6,8 @@
 - 🔐 Interested in web security
 - ✨ Taking part in CTF events as a member of [team L](https://l-team.org)
 - 💻 Loves all kinds of interesting tech stuffs
-- 💬 Currently the one in charge in XDSEC(L).
 
-Email me at <frankli0324@hotmail.com>
+Email me at <frankli0324@hotmail.com>  
+Visit [My Blog](https://blog.frankli.site)
 
 Projects that I'm not going to work on goes to [FrankArchive](https://github.com/FrankArchive)
