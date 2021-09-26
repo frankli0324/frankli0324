@@ -11,3 +11,9 @@ Email me at <frankli0324@hotmail.com>
 Visit [My Blog](https://blog.frankli.site)
 
 Projects that I'm not going to work on goes to [FrankArchive](https://github.com/FrankArchive)
+
+我很可爱，请给我钱
+
+ETH: 0x6C824A3338061B3060028f0d7084F4f46b95dFD2
+
+![image](https://user-images.githubusercontent.com/20221896/134801632-c9689848-11d9-461e-a26f-dc2f0a0842c5.png)
