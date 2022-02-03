@@ -4,16 +4,17 @@
 
 - 🏫 College Student
 - 🔐 Interested in web security
-- ✨ Taking part in CTF events as a member of [team L](https://l-team.org)
+- ✨ Takes part in CTF events as a member of [team L](https://l.xdsec.org)
 - 💻 Loves all kinds of interesting tech stuffs
 
 Email me at <frankli0324@hotmail.com>  
 Visit [My Blog](https://blog.frankli.site)
+Join [XDSEC](https://xdsec.org) if you are (willing to be) a student in Xidian University!
 
+QQ Chatbot related stuff goes to [frank-bots](https://github.com/frank-bots)
 Projects that I'm not going to work on goes to [FrankArchive](https://github.com/FrankArchive)
+Some other projects are scattered around in other organization accounts.
 
-我很可爱，请给我钱
-
-ETH: 0x6C824A3338061B3060028f0d7084F4f46b95dFD2
+我很可爱，请给我star+follow
 
 ![image](https://user-images.githubusercontent.com/20221896/134801632-c9689848-11d9-461e-a26f-dc2f0a0842c5.png)
