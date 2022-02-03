@@ -8,11 +8,11 @@
 - 💻 Loves all kinds of interesting tech stuffs
 
 Email me at <frankli0324@hotmail.com>  
-Visit [My Blog](https://blog.frankli.site)
+Visit [My Blog](https://blog.frankli.site)  
 Join [XDSEC](https://xdsec.org) if you are (willing to be) a student in Xidian University!
 
-QQ Chatbot related stuff goes to [frank-bots](https://github.com/frank-bots)
-Projects that I'm not going to work on goes to [FrankArchive](https://github.com/FrankArchive)
+QQ Chatbot related stuff goes to [frank-bots](https://github.com/frank-bots)  
+Projects that I'm not going to work on goes to [FrankArchive](https://github.com/FrankArchive)  
 Some other projects are scattered around in other organization accounts.
 
 我很可爱，请给我star+follow
